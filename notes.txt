@@ -1,0 +1,14 @@
+background color(option) :-
+1.Deep Teal (#003049):
+A rich teal offers a more vibrant alternative to classic black while maintaining good contrast.
+
+2.#2E3440
+
+to start project :
+1.open command in cmd of folder editor
+2. type code . to open vscode
+3. typr yarn start to open webpage
+
+
+nodemon : server restart automatically
+useREf : react ka hook,can store data if multiple render and compnent should not change
