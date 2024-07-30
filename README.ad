@@ -1,1 +1,1 @@
-# website1
+The Realtime Code Editor is a collaborative web-based code editor that allows multiple users to edit code simultaneously in real-time. Built with the latest web technologies, this project utilizes React for the frontend and Socket.io for real-time communication. The editor is designed to support JavaScript code with features like syntax highlighting, auto-closing of tags and brackets, and a dark theme for a better coding experience. This project can serve as a great tool for pair programming, coding interviews, or teaching code in a collaborative environment.
